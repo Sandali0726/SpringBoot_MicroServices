@@ -18,7 +18,7 @@
         <module>product</module>
         <module>order</module>
         <module>inventory</module>
-        <module>product</module>
+
     </modules>
 
     <properties>
